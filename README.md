@@ -1,0 +1,2 @@
+# wiki
+some knowledge
